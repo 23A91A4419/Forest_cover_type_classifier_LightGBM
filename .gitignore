@@ -27,7 +27,6 @@ Thumbs.db
 *.tmp
 
 # LightGBM temporary models
-*.txt
 *.model
 
 # Large data files (optional)
