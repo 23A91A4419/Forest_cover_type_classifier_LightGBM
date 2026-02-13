@@ -195,13 +195,13 @@ LightGBM demonstrated:
 
 ## 📈 Results Summary
 
-| Model                | Accuracy | Macro F1 | Training Time |
-|----------------------|----------|----------|---------------|
-| LightGBM (Baseline)  |    -     |    -     |      -        |
-| LightGBM (Tuned)     |    -     |    -     |      -        |
-| Alternative Model    |    -     |    -     |      -        |
 
-*(Fill in actual results after running experiments.)*
+| Model                | Accuracy | Macro F1 | Training Time (sec) |
+|----------------------|----------|----------|----------------------|
+| LightGBM (Baseline)  | 0.81     | 0.78     | -                    |
+| LightGBM (Tuned)     | 0.95     | 0.93     | 67.47                |
+| Random Forest        | 0.96     | 0.93     | 376.84               |
+
 
 ---
 
